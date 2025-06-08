@@ -9,6 +9,9 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
+import com.apiusuariosynotas.model.Nota;
+import com.apiusuariosynotas.service.NotaService;
+
 import java.util.List;
 import java.util.Optional;
 
