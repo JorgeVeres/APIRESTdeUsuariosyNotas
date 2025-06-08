@@ -32,4 +32,4 @@ API REST desarrollada con Spring Boot para gestionar usuarios y sus notas. Imple
 
 # Repositorio GitHub
 
-    https://github.com/JorgeVeres/API-REST-de-Usuarios-y-Notas.git
+    https://github.com/JorgeVeres/APIRESTdeUsuariosyNotas.git
